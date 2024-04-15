@@ -7,6 +7,7 @@ if (operation === "+"){
 	}
 else if (operation === "-"){
 	takeAway(number1, number2)
+
 	}
 else if (operation === "*") {
 	multiplication (number1, number2)
