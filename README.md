@@ -1,2 +1,2 @@
 # calculator
-In the repo we have a calculator coded in JS
+In this repo we have a calculator coded in JS
